@@ -82,8 +82,8 @@ body::before {
     transform: translateX(8px);
   }
 }
-.int-area input:focus + lable,
-.int-area input:valid + lable {
+.int-area input:focus + label,
+.int-area input:valid + label {
   top: -2px;
   font-size: 13px;
   color: #166cea;
